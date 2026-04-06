@@ -1,0 +1,33 @@
+{
+  "vereinsname": "Freibad Haselbach e.V.",
+  "ort": "87745 Haselbach",
+  "badGeoeffnet": true,
+  "saisonJahr": 2025,
+  "formspreeId": "xpwdjokn",
+  "navLinks": [
+    { "id": "start", "label": "Start" },
+    { "id": "verein", "label": "Über uns" },
+    { "id": "chronik", "label": "Chronik" },
+    { "id": "aktuelles", "label": "Aktuelles" },
+    { "id": "kontakt", "label": "Kontakt" }
+  ],
+  "footerLinks": [
+    { "label": "Impressum", "href": "/impressum" },
+    { "label": "Datenschutzerklärung", "href": "/datenschutz" },
+  ],
+  "heroStats": [
+    { "wert": "1974", "label": "Eröffnung" },
+    { "wert": "2011", "label": "Vereinsgründung" },
+    { "wert": "e.V.", "label": "Gemeinnützig" },
+    { "wert": "🤝", "label": "Ehrenamtlich" }
+  ],
+  "dokumente": [
+    { "label": "Satzung", "url": "#" },
+    { "label": "Hausordnung", "url": "#" }
+  ],
+  "bilder": {
+    "heroBackground": "",
+    "vereinKarte": "",
+    "galerie": []
+  }
+}

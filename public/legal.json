@@ -1,0 +1,41 @@
+{
+  "impressum": {
+    "titel": "Impressum",
+    "angaben": {
+      "vereinsname": "Freibad Haselbach e.V.",
+      "adresse": "Musterstraße 1\n87745 Haselbach",
+      "vertreten": "Mario Miller (1. Vorstand)",
+      "email": "info@freibad-haselbach.de",
+      "telefon": "",
+      "registergericht": "Amtsgericht Memmingen",
+      "registernummer": "VR XXXXX"
+    },
+    "haftungshinweis": "Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.",
+    "urheberrecht": "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht."
+  },
+  "datenschutz": {
+    "titel": "Datenschutzerklärung",
+    "abschnitte": [
+      {
+        "ueberschrift": "1. Verantwortlicher",
+        "text": "Verantwortlich für die Datenverarbeitung auf dieser Website ist:\n\nFreibad Haselbach e.V.\nMusterstraße 1\n87745 Haselbach\nE-Mail: info@freibad-haselbach.de"
+      },
+      {
+        "ueberschrift": "2. Erhebung und Speicherung personenbezogener Daten",
+        "text": "Beim Besuch unserer Website werden automatisch Informationen durch den Browser übermittelt und in Server-Logfiles gespeichert. Diese Informationen umfassen: Browsertyp und -version, verwendetes Betriebssystem, Referrer URL, Hostname des zugreifenden Rechners, Uhrzeit der Serveranfrage und IP-Adresse."
+      },
+      {
+        "ueberschrift": "3. Kontaktformular",
+        "text": "Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Formular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter. Die Verarbeitung erfolgt über den Dienst Formspree (formspree.io)."
+      },
+      {
+        "ueberschrift": "4. Ihre Rechte",
+        "text": "Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten."
+      },
+      {
+        "ueberschrift": "5. Cookies",
+        "text": "Unsere Website verwendet keine Cookies zu Tracking- oder Analysezwecken."
+      }
+    ]
+  }
+}
